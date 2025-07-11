@@ -7,14 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSortedArrays", "MergeS
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MergeSortedArrays", "MergeSortedArrays", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
 	ProjectSection(SolutionItems) = preProject
-		Задание_.txt = Задание_.txt
+		MergeSortedArrays\MergeSortedArrays\Задание.txt = MergeSortedArrays\MergeSortedArrays\Задание.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "MergeSortedArrays\Tests\Tests.csproj", "{3D4ECD75-C7F4-44DD-99A1-913263272AB8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BrokenKeyboard", "BrokenKeyboard", "{D2404B56-978E-4275-9347-D04DC9D4D916}"
 	ProjectSection(SolutionItems) = preProject
-		Задание.txt = Задание.txt
+		BrokenKeyboard\BrokenKeyboard\Задание.txt = BrokenKeyboard\BrokenKeyboard\Задание.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrokenKeyboard", "BrokenKeyboard\BrokenKeyboard\BrokenKeyboard.csproj", "{FE67F7FC-AC5E-4F56-BC4D-2729B7DD44B1}"
